@@ -1,2 +1,2 @@
 # ProxyPool
-利用Django搭建代理池
+利用Tornado搭建代理池
